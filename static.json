@@ -1,9 +1,8 @@
 {
-
   "headers": {
-    "*": {
-      "X-Author": "afilyaa"
+    "/*": {
+      "X-Author": "afilyaa",
+      "Access-Control-Allow-Origin": "*"
     }
   }
-
 }
